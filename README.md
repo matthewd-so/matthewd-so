@@ -2,7 +2,7 @@
 
 🌱 Rising 3rd-year studying Computer Engineering @ University of Waterloo
 
-💻 Internship experiences:
+💻 Internship Experiences:
 
 **Software Developer @ Semper8 Capital** — React Native, TypeScript, MongoDB, AWS, JWT
 
@@ -10,7 +10,7 @@
 
 **SDET @ Canadian Imperial Bank of Commerce (CIBC)** —  Java, Spring Boot, AWS
 
-### Technical Skills
+⚙️ Technical Skills:
 
 **Programming Languages:**
 - Python
