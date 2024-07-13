@@ -7,15 +7,12 @@
 💻 **Internship Experiences:**
 
 - **Software Developer @ Semper8 Capital**
-  **Mobile App Development (iOS & Android)**
   - Technologies: React Native, TypeScript, MongoDB, AWS, JWT
 
 - **Software Developer @ Bank of Montreal (BMO)**
-  **Wealth Management Technologies**
   - Technologies: Python, Apache Kafka, Ansible, Kubernetes
 
 - **SDET @ Canadian Imperial Bank of Commerce (CIBC)**
-  **Pega Cloud Migration**
   - Technologies: Java, Spring Boot, AWS
 
 ---
