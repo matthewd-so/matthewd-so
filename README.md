@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Matthew So 👋
 
-<!--
-**matthewd-so/matthewd-so** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Rising 3rd-year studying Computer Engineering @ University of Waterloo
 
-Here are some ideas to get you started:
+💻 Internship experiences:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Software Developer Intern @ Semper8 Capital** — React Native, TypeScript, MongoDB, AWS, JWT
+
+**Software Developer Intern @ Bank of Montreal (BMO)** — Python, Apache Kafka, Ansible, Kubernetes
+
+**Software Development Engineer in Test Intern @ Canadian Imperial Bank of Commerce (CIBC)** —  Java, Spring Boot, AWS
+
+---
+
+### Technical Skills
+
+**Programming Languages:**
+- Python
+- Java
+- C++
+- JavaScript/TypeScript
+- Golang
+- Ruby
+- SQL
+
+**Frameworks and Libraries:**
+- React
+- Node
+- Express
+- Next.js
+- Nest.js
+- MySQL
+- MongoDB
+- Postgres
+- Django
+- Spring Boot
+- Flask
+- GraphQL
+- REST API
+- FastAPI
+- gRPC
+
+**Technologies and Tools:**
+- Kafka
+- Redis
+- Ruby on Rails
+- Laravel
+- AWS
+- GCP
+- Databricks
+- Snowflake
+- Spark
+- TensorFlow
+
+**DevOps and CI/CD:**
+- GitHub
+- Docker
+- Kubernetes
+- Ansible
+- Puppet
+- Jenkins
+- Bamboo
+
+---
+
+📫 Connect with me: 
+[LinkedIn](https://linkedin.com/in/matthewdso) | [Email](mailto:mdcso@uwaterloo.ca)
