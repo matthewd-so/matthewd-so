@@ -4,11 +4,11 @@
 
 💻 Internship experiences:
 
-**Software Developer Intern @ Semper8 Capital** — React Native, TypeScript, MongoDB, AWS, JWT
+**Software Developer @ Semper8 Capital** — React Native, TypeScript, MongoDB, AWS, JWT
 
-**Software Developer Intern @ Bank of Montreal (BMO)** — Python, Apache Kafka, Ansible, Kubernetes
+**Software Developer @ Bank of Montreal (BMO)** — Python, Apache Kafka, Ansible, Kubernetes
 
-**Software Development Engineer in Test Intern @ Canadian Imperial Bank of Commerce (CIBC)** —  Java, Spring Boot, AWS
+**SDET @ Canadian Imperial Bank of Commerce (CIBC)** —  Java, Spring Boot, AWS
 
 ---
 
