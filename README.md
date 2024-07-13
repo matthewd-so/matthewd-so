@@ -10,8 +10,6 @@
 
 **SDET @ Canadian Imperial Bank of Commerce (CIBC)** —  Java, Spring Boot, AWS
 
----
-
 ### Technical Skills
 
 **Programming Languages:**
