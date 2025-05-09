@@ -1,6 +1,6 @@
 # Hi, I'm Matthew So 👋
 
-🌱 **3rd year studying Computer Engineering @ University of Waterloo**
+🌱 **3rd year Computer Engineering @ University of Waterloo**
 
 ---
 
