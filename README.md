@@ -6,6 +6,9 @@
 
 💻 **Internship Experiences:**
 
+- **Software Engineer @ Shopify**
+  - Technologies: Ruby on Rails, GraphQL, gRPC
+
 - **Software Developer @ Semper8 Capital**
   - Technologies: React Native, TypeScript, MongoDB, AWS, JWT
 
