@@ -6,6 +6,9 @@
 
 💻 **Internship Experiences:**
 
+- **Applied AI Engineer @ CodeRabbit**
+  - Technologies: TypeScript, Golang, BigQuery
+
 - **Software Engineer @ Shopify**
   - Technologies: Ruby on Rails, GraphQL, gRPC
 
