@@ -1,10 +1,13 @@
 # Hi, I'm Matthew So 👋
 
-🌱 **3rd year Computer Engineering @ University of Waterloo**
+🌱 **4th year Computer Engineering @ University of Waterloo**
 
 ---
 
 💻 **Internship Experiences:**
+
+- **Production Engineer @ Meta**
+  - Technologies: Spark, Thrift, Linux, Python, C++
 
 - **Applied AI Engineer @ CodeRabbit**
   - Technologies: TypeScript, Golang, GCP
