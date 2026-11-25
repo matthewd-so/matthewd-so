@@ -7,19 +7,19 @@
 💻 **Internship Experiences:**
 
 - **Production Engineer @ Meta**
-  - Technologies: Spark, Thrift, Linux, Python, C++
+  - Technologies: Linux, Python, C++, Spark
 
 - **Applied AI Engineer @ CodeRabbit**
   - Technologies: TypeScript, Golang, GCP
 
 - **Software Engineer @ Shopify**
-  - Technologies: Ruby on Rails, GraphQL, gRPC
+  - Technologies: Ruby, Ray, gRPC
 
 - **Software Developer @ Semper8 Capital**
   - Technologies: React Native, TypeScript, MongoDB, AWS, JWT
 
 - **Software Developer @ Bank of Montreal (BMO)**
-  - Technologies: Python, Apache Kafka, Ansible, Kubernetes
+  - Technologies: Python, Kafka, Kubernetes
 
 - **SDET @ Canadian Imperial Bank of Commerce (CIBC)**
   - Technologies: Java, Spring Boot, AWS
